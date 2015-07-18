@@ -10,5 +10,6 @@ ICT社の説明会で使う販促物を皆さんと一緒に作りましょう�
 
 ## ファイル構成
 * 送付状
+* [linkref] https://github.com/ict-inc/rp-01/issues/2 "送付状"
 
 ## リリース方法
